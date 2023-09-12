@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{92CCF76D-F8CA-477A-8CC9-2A3C8E7C2DD7}</ProjectGuid>
+    <ProjectGuid>{DEF844B8-5027-418E-89D9-05054F19DB50}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyiui.GolubevDS.Sprint0.Task3.V0</RootNamespace>
-    <AssemblyName>Tyiui.GolubevDS.Sprint0.Task3.V0</AssemblyName>
+    <RootNamespace>Tyuiu.GolubevDS.Sprint0.Task4.V0</RootNamespace>
+    <AssemblyName>Tyuiu.GolubevDS.Sprint0.Task4.V0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyiui.GolubevDS.Sprint0.Task3.V0.Lib\Tyiui.GolubevDS.Sprint0.Task3.V0.Lib.csproj">
-      <Project>{7ef25042-c444-4786-8ad6-62607fa1e3e1}</Project>
-      <Name>Tyiui.GolubevDS.Sprint0.Task3.V0.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.GolubevDS.Sprint0.Task4.V0.Lib\Tyuiu.GolubevDS.Sprint0.Task4.V0.Lib.csproj">
+      <Project>{62e8db55-787b-463c-b74d-bde259da5334}</Project>
+      <Name>Tyuiu.GolubevDS.Sprint0.Task4.V0.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
